@@ -1,0 +1,3 @@
+This folder does not contain a valid image. Normally, the database would delete itself if there were no images stored in it. This folder and its files prevent that.
+
+The first-party implementation of this database ignores this directory implicitly (that is, this directory does not contain an image, and it ignores all directories which do not contain an image). Yours should too.
